@@ -1,6 +1,6 @@
-### Hi there, I'm Arthur 😸
+### Olá, meu nome é Arthur 😸
 
-I’m currently learning Python and C# 🖥️
+Estou atualmente aprendendo desenvolvimento web com Django, além de ter alguns projetos em C#.
 
 <div align="center">
   <a href="https://github.com/arthurmelo777">
