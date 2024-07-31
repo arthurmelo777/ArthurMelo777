@@ -13,12 +13,7 @@
 
 ## Minhas melhores tecnologias ⭐
 <div>
-<img height="60em" src="https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png" />
+<img height="60em" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" />
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-</div>
-
-## Contato ☎️
-<div>
-<a href="https://www.instagram.com/arthu.gg/"><img height="60em" src="https://cdn-icons-png.flaticon.com/256/3621/3621435.png"/></a>
 </div>
